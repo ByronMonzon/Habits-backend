@@ -70,3 +70,4 @@ prisma/.env
 
 # PM2
 .pids
+.vercel
