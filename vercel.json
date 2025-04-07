@@ -13,8 +13,8 @@
         }
     ],
     "env": {
-        "PORT": "3001",
         "MONGO_URI": "mongodb+srv://monzonbyron43:aRODmfmude1dOYI3@cluster0.kjo86.mongodb.net/HabitosApp?retryWrites=true&w=majority&appName=Cluster0",
+        "PORT": "3001",
         "JWT_SECRET": "ProgramacionAvanzada",
         "NODE_ENV": "development"
     }
